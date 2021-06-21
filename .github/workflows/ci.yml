@@ -13,6 +13,9 @@ on:
 jobs:
   ci:
     runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        working-directory: ./nuxt
 
     strategy:
       matrix:
