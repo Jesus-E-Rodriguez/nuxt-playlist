@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "A dummy json server",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  },
+  "scripts": {
+    "dev": "json-server --p 3001 --watch fixtures/db.json"
+  }
+}

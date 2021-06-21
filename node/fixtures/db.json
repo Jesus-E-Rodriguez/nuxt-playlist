@@ -1,0 +1,13 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "name": "2021 Playlists",
+      "dateCreated": "2021-05-24T02:00:54.513Z",
+      "dateUpdated": "2021-05-24T14:17:30.052Z",
+      "description": "The roaring 20s!",
+      "background": "https://images.unsplash.com/Ys-DBJeX0nE.JPG?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "creator": "@johndoe"
+    }
+  ]
+}
